@@ -1,4 +1,3 @@
-Claro, criar um card como esse é uma excelente prática para solidificar seus conhecimentos em HTML e CSS. Vou explicar como esse card foi criado e fornecer um exemplo básico que você pode usar para treinar.
 
 **Como foi criado o card:**
 
